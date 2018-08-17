@@ -1,4 +1,5 @@
 //add one line comment
+//test GitKraken
 package main
 
 import (
